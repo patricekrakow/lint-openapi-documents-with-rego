@@ -1,4 +1,12 @@
-# Lint OpenAPI Documents with Rego and OPA (Open Policy Agent)
+# Lint OpenAPI Documents with Rego
+
+## Getting Started
+
+```text
+yq hello-api-v0.1.0.oas2.yaml --output-format json > hello-api-v0.1.0.oas2.json
+```
+
+<https://play.openpolicyagent.org/p/Jxjxrpdfca>
 
 ## References
 
